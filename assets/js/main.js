@@ -57,8 +57,6 @@
       }
     })
   }
-  window.addEventListener('load', navbarlinksActive)
-  onscroll(document, navbarlinksActive)
 
   /**
    * Scrolls to an element with header offset
