@@ -81,8 +81,6 @@
         backtotop.classList.remove('active')
       }
     }
-    window.addEventListener('load', toggleBacktotop)
-    onscroll(document, toggleBacktotop)
   }
 
   /**
